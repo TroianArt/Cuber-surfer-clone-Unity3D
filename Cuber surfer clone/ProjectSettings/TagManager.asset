@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Killzone
+  - Enemy
+  - NormalCube
+  - ObstacleCube
+  - NormalCubeBack
+  - NormalCubeFront
+  - PlayerParent
+  - CubeDetectorColl
+  - Floor
+  - FinishPointForBar
+  - CollectableGem
+  - PlayerModel
+  - FinishFloor
+  - FinishFloorUpTrigger
+  - LatestStopperColl
+  - FinishFloorForTrail
+  - PlayerVacuum
+  - MagnetCollectable
+  - LeftTurn
+  - RightTurn
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cameras
+  - Lights
+  - Floors
+  - Boundries
+  - Players
+  - Enemies
+  - Walls
+  - Obstacles
+  - NormalCubes
+  - PlayerModel
+  - PlayerParent
+  - PlayerCubeDetector
+  - VFXs
+  - CollectableGems
+  - FinishFloors
+  - CollectableMagnets
+  - PlayerVacuum
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
